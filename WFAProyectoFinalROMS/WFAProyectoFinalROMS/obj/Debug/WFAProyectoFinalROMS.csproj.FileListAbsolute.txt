@@ -1,0 +1,14 @@
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\bin\Debug\WFAProyectoFinalROMS.exe.config
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\bin\Debug\WFAProyectoFinalROMS.exe
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\bin\Debug\WFAProyectoFinalROMS.pdb
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.csproj.AssemblyReference.cache
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmJugar.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmModoAprendizaje.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmROMS.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.Properties.Resources.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.csproj.GenerateResource.cache
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.csproj.CoreCompileInputs.cache
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.exe
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.pdb
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmLoteriaVisual.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmUsuario.resources

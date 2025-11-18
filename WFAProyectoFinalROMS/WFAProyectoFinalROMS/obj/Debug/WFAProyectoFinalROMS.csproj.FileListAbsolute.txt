@@ -12,3 +12,5 @@ C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyecto
 C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.pdb
 C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmLoteriaVisual.resources
 C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmUsuario.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmLogin.resources
+C:\Cosas de la Universidad del Norte\Programacion orientada a objetos 1\proyectoFinalPOO1\WFAProyectoFinalROMS\WFAProyectoFinalROMS\obj\Debug\WFAProyectoFinalROMS.FrmRegistrarUsuario.resources

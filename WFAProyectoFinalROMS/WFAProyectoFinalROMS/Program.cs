@@ -16,7 +16,7 @@ namespace WFAProyectoFinalROMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLoteriaVisual());
+            Application.Run(new FrmLogin());
         }
     }
 }

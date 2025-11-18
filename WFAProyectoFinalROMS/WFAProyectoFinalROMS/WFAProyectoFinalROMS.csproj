@@ -46,11 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Carta.cs" />
+    <Compile Include="FrmConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultas.Designer.cs">
+      <DependentUpon>FrmConsultas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmJugar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmJugar.Designer.cs">
       <DependentUpon>FrmJugar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmModoAprendizaje.cs">
       <SubType>Form</SubType>
@@ -64,6 +77,18 @@
     <Compile Include="FrmLoteriaVisual.Designer.cs">
       <DependentUpon>FrmLoteriaVisual.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmPresentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPresentacion.Designer.cs">
+      <DependentUpon>FrmPresentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistrarUsuario.Designer.cs">
+      <DependentUpon>FrmRegistrarUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmROMS.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,16 +101,23 @@
     <Compile Include="FrmUsuario.Designer.cs">
       <DependentUpon>FrmUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="GestorDatos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmJugar.resx">
       <DependentUpon>FrmJugar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmModoAprendizaje.resx">
       <DependentUpon>FrmModoAprendizaje.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLoteriaVisual.resx">
       <DependentUpon>FrmLoteriaVisual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistrarUsuario.resx">
+      <DependentUpon>FrmRegistrarUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmROMS.resx">
       <DependentUpon>FrmROMS.cs</DependentUpon>
